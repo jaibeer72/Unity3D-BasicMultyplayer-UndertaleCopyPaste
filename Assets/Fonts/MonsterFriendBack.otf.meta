@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 27ec9aa2a52ee924e912ff18f95df7a0
+timeCreated: 1513880059
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Monster Friend Back
+  fontNames:
+  - Monster Friend Back
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
